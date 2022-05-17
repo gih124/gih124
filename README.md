@@ -1,0 +1,4 @@
+- 👋 ola meu nome e @aluraestudante
+- 👀 meu email de contato e giovana.lopes.silva@escola.pr.gov.br
+- 🌱 eu estou interessado a aprender a programar novas linguagens
+- 💞️ eu aprendendo a programar recentemente a linguagem de javaScript e Scrath
